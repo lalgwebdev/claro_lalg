@@ -1,0 +1,12 @@
+global-styling:
+  css:
+    theme:
+      css/claro-lalg-membership.css: { weight: 12 }
+      css/claro-lalg-groups.css: { weight: 14 }
+      css/claro-lalg-global.css: { weight: 16 }
+      
+global-scripts:
+  js: 
+    js/claro-lalg-environment.js: {}  
+  dependencies:
+    - core/jquery

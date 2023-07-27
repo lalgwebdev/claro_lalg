@@ -1,0 +1,54 @@
+div.field--name-field-key-words .form-checkboxes {
+  column-count: 4
+}
+
+.help {
+  float: right;
+  width: 35%;
+  background-color: #1da9d31c;
+  border-radius: 10px;
+  margin-left: 15px;
+  margin-bottom: 15px;
+}
+
+.help .region-help {
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+}
+
+.help div {
+  margin-bottom: 2px;
+}
+
+.help div h2 {
+  clear: both;
+  color: white;
+  background-color: #0a8ebd;
+  padding: 6px;
+  padding-left: 16px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+/* views */
+.views-ui-display-tab-bucket__header {
+    padding: 0.25rem 1rem calc(0.25rem + 2px);
+}
+.views-ui-display-tab-bucket .views-display-setting {
+    padding: 0.25rem 1rem;
+}
+
+/* menus */
+ul.sf-main li ul li a {
+	text-decoration: none;
+}
+
+/* tables */
+td {
+	height: auto;
+}
+td > a {
+	text-decoration: none;
+}

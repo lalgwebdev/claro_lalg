@@ -1,0 +1,19 @@
+name: Claro LALG
+type: theme
+base theme: claro
+description: 'Based on Claro, and intended for CiviCrm admin screens'
+package: Core
+libraries:
+ - claro_lalg/global-styling 
+ - claro_lalg/global-scripts
+regions:
+  header: 'Header'
+  pre_content: 'Pre-content'
+  breadcrumb: Breadcrumb
+  highlighted: Highlighted
+  help: Help
+  content: Content
+  sidebar_first: 'First sidebar'
+version: '1.0'
+core_version_requirement: ^9 || ^10
+project: 'claro_lalg'
