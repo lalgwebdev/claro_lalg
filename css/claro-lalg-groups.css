@@ -48,6 +48,7 @@ ul.sf-main li ul li a {
 /* tables */
 td {
 	height: auto;
+	padding: 0.15rem 1rem;
 }
 td > a {
 	text-decoration: none;
