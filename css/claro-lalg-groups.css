@@ -53,3 +53,8 @@ td {
 td > a {
 	text-decoration: none;
 }
+
+/* Editors Notes */
+textarea#edit-field-editor-s-notes-0-value {
+    background-color: #ffff0096;
+}
