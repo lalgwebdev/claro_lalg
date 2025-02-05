@@ -58,3 +58,6 @@ td > a {
 textarea#edit-field-editor-s-notes-0-value {
     background-color: #ffff0096;
 }
+
+/* Group Edit Form */
+form#group-group-edit-form div.field--name-field-contact-details div.ck-editor__main div.ck-read-only {background-color: #bac1c4 !important;}
