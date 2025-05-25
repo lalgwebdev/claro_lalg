@@ -10,3 +10,9 @@ global-scripts:
     js/claro-lalg-environment.js: {}  
   dependencies:
     - core/jquery
+
+claro-lalg-eventseriesform-tweaks:
+  js:
+    js/claro-lalg-eventseriesform-tweaks.js: {}   
+  dependencies:
+    - core/jquery
