@@ -61,3 +61,6 @@ textarea#edit-field-editor-s-notes-0-value {
 
 /* Group Edit Form */
 form#group-group-edit-form div.field--name-field-contact-details div.ck-editor__main div.ck-read-only {background-color: #bac1c4 !important;}
+
+/* Subscribers page - remove left padding from roles column */
+div.groups-group-members table tbody td.views-field-group-roles ul {padding-left: 0;}
